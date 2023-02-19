@@ -1,0 +1,7 @@
+html2phpbbcode
+bencode.py
+retrying==1.3.3
+beautifulsoup4==4.9.3
+Requests==2.25.1
+lxml
+happyfunc @ git+https://github.com/inerfire/happyfunc.git
